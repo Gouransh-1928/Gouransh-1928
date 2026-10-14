@@ -13,4 +13,20 @@
 </tr>
 </table>
 
+<br><br>
+
+<h3><code>gouransh@github ~ $ ./links.sh</code></h3>
+
+<p><b>AI/ML Engineering · Generative AI · Software Development</b></p>
+
+<a href="https://www.linkedin.com/in/gouransh-salonia-706279295">
+  <img src="https://img.shields.io/badge/LINKEDIN-GOURANSH_SALONIA-0A66C2?style=for-the-badge&labelColor=555555" />
+</a>
+<a href="https://github.com/Gouransh-1928">
+  <img src="https://img.shields.io/badge/GITHUB-GOURANSH--1928-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" />
+</a>
+<a href="mailto:gouranshsalonia19@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" />
+</a>
+
 </div>

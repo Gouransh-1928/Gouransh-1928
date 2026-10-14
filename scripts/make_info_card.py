@@ -12,11 +12,11 @@ TITLE = "gouransh@github"
 ROWS = [
     ("Now",        "B.Tech IT @ JMIT Radaur (2027)"),
     ("Prev",       "Generative AI Intern @ IBM"),
-    ("Focus",      "AI/ML engineering, LLM apps"),
-    ("Stack",      "Python, LangChain, RAG, FAISS"),
+    ("Focus",      "AI/ML engineering, LLM apps, Software engeineering"),
+    ("Stack",      "Python, LangChain, RAG"),
     ("Cloud",      "Azure OpenAI, Google Cloud"),
     ("Backend",    "FastAPI, MongoDB, MCP"),
-    ("Highlights", "RAG Financial Intelligence System"),
+    ("Highlights", "LLM voice assitant 'JARVIS' "),
     ("",           "Agentic AI caterer platform"),
 ]
 # ----------------------------------------------------

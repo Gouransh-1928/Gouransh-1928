@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="278" viewBox="0 0 490 278">
+<style>text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;font-size:14px}.line{opacity:0;animation:in .5s ease forwards}@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}</style>
+<rect width="490" height="278" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 10a10 10 0 0 1 10-10h470a10 10 0 0 1 10 10v22H0z" fill="#161b22"/>
+<circle cx="20" cy="16" r="5" fill="#ff5f56"/>
+<circle cx="38" cy="16" r="5" fill="#ffbd2e"/>
+<circle cx="56" cy="16" r="5" fill="#27c93f"/>
+<text x="245.0" y="21" text-anchor="middle" fill="#8b949e" font-size="12">gouransh@github</text>
+<g class="line" style="animation-delay:0.20s"><text x="24" y="54" fill="#58a6ff" font-weight="bold">gouransh@github</text></g>
+<g class="line" style="animation-delay:0.35s"><text x="24" y="66" fill="#8b949e">---------------</text></g>
+<g class="line" style="animation-delay:0.50s"><text x="24" y="82" fill="#58a6ff" font-weight="bold">Now</text><text x="130" y="82" fill="#c9d1d9">B.Tech IT @ JMIT Radaur (2027)</text></g>
+<g class="line" style="animation-delay:0.68s"><text x="24" y="106" fill="#58a6ff" font-weight="bold">Prev</text><text x="130" y="106" fill="#c9d1d9">Generative AI Intern @ IBM</text></g>
+<g class="line" style="animation-delay:0.86s"><text x="24" y="130" fill="#58a6ff" font-weight="bold">Focus</text><text x="130" y="130" fill="#c9d1d9">AI/ML engineering, LLM apps</text></g>
+<g class="line" style="animation-delay:1.04s"><text x="24" y="154" fill="#58a6ff" font-weight="bold">Stack</text><text x="130" y="154" fill="#c9d1d9">Python, LangChain, RAG, FAISS</text></g>
+<g class="line" style="animation-delay:1.22s"><text x="24" y="178" fill="#58a6ff" font-weight="bold">Cloud</text><text x="130" y="178" fill="#c9d1d9">Azure OpenAI, Google Cloud</text></g>
+<g class="line" style="animation-delay:1.40s"><text x="24" y="202" fill="#58a6ff" font-weight="bold">Backend</text><text x="130" y="202" fill="#c9d1d9">FastAPI, MongoDB, MCP</text></g>
+<g class="line" style="animation-delay:1.58s"><text x="24" y="226" fill="#58a6ff" font-weight="bold">Highlights</text><text x="130" y="226" fill="#c9d1d9">RAG Financial Intelligence System</text></g>
+<g class="line" style="animation-delay:1.76s"><text x="130" y="250" fill="#c9d1d9">Agentic AI caterer platform</text></g>
+</svg>

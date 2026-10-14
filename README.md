@@ -25,7 +25,7 @@
 <a href="https://github.com/Gouransh-1928">
   <img src="https://img.shields.io/badge/GITHUB-GOURANSH--1928-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" />
 </a>
-<a href="mailto:gouranshsalonia19@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gouranshsalonia19@gmail.com&su=Hello%20Gouransh">
   <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" />
 </a>
 

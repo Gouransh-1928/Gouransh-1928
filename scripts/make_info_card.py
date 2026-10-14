@@ -18,6 +18,7 @@ ROWS = [
     ("Backend",    "FastAPI, MongoDB, MCP"),
     ("Highlights", "LLM voice assitant 'JARVIS' "),
     ("",           "Agentic AI caterer platform"),
+     ("Mail",    "gouranshsalonia19.com")
 ]
 # ----------------------------------------------------
 
